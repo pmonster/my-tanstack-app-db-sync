@@ -1,4 +1,4 @@
-Build a full-stack TanStack Start app with auth, database access, forms, and monitoring.
+# Build a full-stack TanStack Start app with auth, database access, forms, and monitoring.
 
 Prefer these integrations where they fit: WorkOS (Authentication), PowerSync (Databases), Prisma (Databases).
 The request clearly calls for these integrations where they fit: CodeRabbit (Code Review), Cloudflare (Deployment/Hosting).
